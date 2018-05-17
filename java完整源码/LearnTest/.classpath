@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="E:/framework/ANSJ/ansj_seg-5.1.6.jar" sourcepath="E:/framework/ANSJ/ansj_seg-5.1.6-sources.jar"/>
+	<classpathentry kind="lib" path="E:/framework/ANSJ/nlp-lang-1.7.7.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
